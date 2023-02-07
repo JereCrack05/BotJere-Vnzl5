@@ -1,6 +1,6 @@
 {
- "name": "a17-bot",
- "description": "Multi Device Whatsapp Bot By Kai",
+ "name": "BotJere-Vnzl5",
+ "description": "Multi Device Whatsapp Bot By Jer",
  "version": "3.0.0",
  "main": "index.js",
  "type": "commonjs",
@@ -18,7 +18,7 @@
   "bot-md",
   "multi-device"
  ],
- "author": "Kai (Kai0071)",
+ "author": "Jer (Jer0071)",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "^4.4.0",
